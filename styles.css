@@ -1,0 +1,14 @@
+/* styles.css */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Prevents scrollbars from appearing */
+}
+
+#full-screen-div {
+  width: 100vw; /* 100% of the viewport width */
+  height: 100vh; /* 100% of the viewport height */
+  background-color: #f0f0f0; /* Example background color */
+}
